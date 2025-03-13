@@ -56,7 +56,7 @@ flutter run
 - Make changes and commit.
 - Submit a pull request.
 
-# Make Sure to do this_____
+# Make Sure to do this :
 1. Keep Java version and gradle version to match (17 and 8.1 )
 2. install and give part to
    - dart
