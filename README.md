@@ -67,6 +67,6 @@ flutter run
    - path all your necessary to environment variables
 
 # License
-- @mithildabhi
+- @[mithildabhi](https://github.com/mithildabhi)
 - @[Dhruvraj915](https://github.com/Dhruvraj915)
 
